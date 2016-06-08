@@ -1,5 +1,2 @@
 # Saver-Solutions
-
-#Collins Nkambule
-
-Enock Mothiba
+An app that will help people save money for their goals
